@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that can be used for writing the final project paper in the Introduction to Quantitative Geology course at the University of Helsinki.
 
-- **The final paper is due by 17:00 on Friday 20.12.2018**
+- **The final paper is due by 17:00 on Friday 10.1.2020**
 
 ## Start working
 
